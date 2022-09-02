@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+p{
+    font-style: italic;
+    font-size:smaller
+}
+body{
+    background-color: #E0BBE4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.xd{
+    color: rebeccapurple;
+}
